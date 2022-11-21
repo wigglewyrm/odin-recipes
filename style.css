@@ -1,0 +1,14 @@
+body {
+    font-family: Arial, Verdana, sans-serif;
+    background-color: rgb(43, 59, 58);
+    color: white;    
+}
+
+.index-body { /*centers text and links on index page*/
+    text-align: center;
+}
+
+a {
+    color: white;
+}
+

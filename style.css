@@ -12,9 +12,20 @@ a {
     color: white;
 }
 
+.inline-p {
+    display: inline-block;
+    margin: 20px;
+    width: 150px;
+    border: 3px solid white;
+    padding: 8px;
+}
+
 .index-image {
-    height: 50px;
+    height: 150px;
     width: auto;
+    display: block;
+    margin: 0 auto;
+    padding-bottom: 8px;
 }
 
 .recipe-image {
